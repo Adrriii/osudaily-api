@@ -1,3 +1,3 @@
 # osudaily-api
 
-Please head on to [the wiki](https://github.com/ppy/osu-api/wiki) for informations and documentation.
+Please head on to [the wiki](https://github.com/Adrriii/osudaily-api/wiki) for informations and documentation.
